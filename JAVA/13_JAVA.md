@@ -262,7 +262,7 @@ SECOND METHOD
 02 MAIN
 ```
 
-![image-20200616122508969](C:\Users\ehr\AppData\Roaming\Typora\typora-user-images\image-20200616122508969.png)
+![image-20200616122508969](https://github.com/osk14741/ehrStudy/blob/master/JAVA/asdf.jpg)
 
 
 
