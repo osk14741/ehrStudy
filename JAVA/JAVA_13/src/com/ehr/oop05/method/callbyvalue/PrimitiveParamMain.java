@@ -15,6 +15,7 @@ public class PrimitiveParamMain {
 		System.out.println("After Change2(data.x)");
 		System.out.println("main() : x = " + data.x);
 		
+		
 	}
 
 	static void change(int x) {
