@@ -15,7 +15,8 @@ CREATE TABLE tcons (no      NUMBER
                     );
 ```
 
-- CHECK() 에 BETWEEN 넣을 수 있다.
+- CHECK(area BETWEEN 1 AND 4)
+- CHECK(area>=1 AND area<=4)
 - 괄호 잘보자
 
 
