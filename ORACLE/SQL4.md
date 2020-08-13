@@ -225,5 +225,5 @@ ORDER BY 4
 - WHERE 절의 아우터 조인되는 컬럼들에 대해 **모두** 아우터 연산자(+)를 붙여야 함.
 - **데이터가 없을 수도 있는 쪽** JOIN 컬럼에 (+)를 추가하여야 한다.
 - ORDER BY 열 순서
-
-- SELECT A FROM B WHERE C : C 조건으로 B에서 A를 SELECT. 
+- SELECT A FROM B WHERE C : C 조건으로 B에서 A를 SELECT한다. 
+- GROUP BY 뒤에 오는 컬럼 값을 기준으로 먼저 모아놓고 SELECT 절에 적혀 있는 그룹 함수를 적용함.
